@@ -54,7 +54,7 @@ class ChatWindow(QMainWindow):
         self.input_layout.addWidget(self.send_button)
         self.layout.addLayout(self.input_layout)
 
-        self.client = OpenAI(api_key='sk-proj-drkRmfXKuf8kWxfOAB0HT3BlbkFJ3puFwMzVJAgliM1Qayd4')
+        self.client = OpenAI(api_key=OPENAI_API_KEY)
 
         ros_param_path = load_ros_params(rospackage_name="ur_rl",
                                          rel_path_from_package_to_file="config",
