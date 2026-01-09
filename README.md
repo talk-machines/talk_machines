@@ -60,7 +60,7 @@ This module processes visual and sensor data to understand the environment and i
 ## Visual Demos
 
 <p align="center">
-  <img src="assets/obst_avoid.gif" alt="Obstacle Avoidance GIF" width="405">
+  <img src="assets/obst_avoid.gif" alt="Obstacle Avoidance GIF" width="410">
   <img src="assets/sort.gif" alt="Sorting Task GIF" width="400">
 </p>
 
