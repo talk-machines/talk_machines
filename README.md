@@ -1,4 +1,6 @@
-# TalkMachines
+<p align="center">
+  <h1>TalkMachines</h1>
+</p>
 
 <!-- Top links as icons with Cite Us badge -->
 <p align="center">
@@ -7,9 +9,6 @@
   </a>
   <a href="https://arxiv.org/abs/2412.15462" title="ArXiv Preprint">
     <img src="assets/paper_icon.png" alt="ArXiv Paper" width="50" height="50">
-  </a>
-  <a href="#citation" title="Cite Us">
-    <img src="assets/paper_icon.png" alt="Cite Us" width="50" height="50">
   </a>
 </p>
 
@@ -74,7 +73,7 @@ This module processes visual and sensor data to understand the environment and i
 - **Website**: [TalkMachines](https://talk-machines.github.io/)  
 - **IEEE Paper**: [IEEE Xplore](https://ieeexplore.ieee.org/document/10817940)  
 - **ArXiv Preprint**: [arXiv:2412.15462](https://arxiv.org/abs/2412.15462)
-- **Supplementary Materials**: `assets/appendix.pdf`  
+- **Supplementary Materials**: `[Appendix](https://github.com/talk-machines/talk_machines/blob/main/assets/appendix.pdf)`  
 ---
 
 ## Further Details
