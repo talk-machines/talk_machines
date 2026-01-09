@@ -60,7 +60,7 @@ This module processes visual and sensor data to understand the environment and i
 ## Visual Demos
 
 <p align="center">
-  <img src="assets/obst_avoid.gif" alt="Obstacle Avoidance GIF" width="450">
+  <img src="assets/obst_avoid.gif" alt="Obstacle Avoidance GIF" width="405">
   <img src="assets/sort.gif" alt="Sorting Task GIF" width="400">
 </p>
 
@@ -80,9 +80,6 @@ This module processes visual and sensor data to understand the environment and i
 - **Website**: [TalkMachines](https://talk-machines.github.io/)  
 - **IEEE Paper**: [IEEE Xplore](https://ieeexplore.ieee.org/document/10817940)  
 - **ArXiv Preprint**: [arXiv:2412.15462](https://arxiv.org/abs/2412.15462)  
-- **Full Paper PDF**: `assets/paper.pdf`  
-- **Supplementary Materials**: `assets/appendix.pdf`  
-
 ---
 
 ## Further Details
