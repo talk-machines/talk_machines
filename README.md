@@ -1,7 +1,7 @@
-<p align="center">
+<div align="center">
   <h1>TalkWithMachines: Enhancing Human-Robot Interaction Through Large/Vision Language Models</h1>
-</p>
-
+  <a href="https://talk-machines.github.io/" target="_blank">Visit Project Website</a>
+</div>
 <!-- Main images at the top -->
 <p align="center">
   <img src="assets/framework.svg" alt="Framework Diagram" width="600">
