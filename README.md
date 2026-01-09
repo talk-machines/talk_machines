@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://talk-machines.github.io/" target="_blank">
-    <h1>TalkMachines</h1>
-  </a>
+  <h1>TalkMachines</h1>
 </p>
 
 <!-- Main images at the top -->
