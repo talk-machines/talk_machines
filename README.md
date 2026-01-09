@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>TalkMachines</h1>
+  <h1>TalkWithMachines: Enhancing Human-Robot Interaction Through Large/Vision Language Models</h1>
 </p>
 
 <!-- Main images at the top -->
