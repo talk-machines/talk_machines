@@ -4,16 +4,6 @@
   </a>
 </p>
 
-<!-- Top links as icons with Cite Us badge -->
-<p align="center">
-  <a href="https://talk-machines.github.io/" title="Project Website">
-    <img src="assets/website_icon.png" alt="Website" width="50" height="50">
-  </a>
-  <a href="https://arxiv.org/abs/2412.15462" title="ArXiv Preprint">
-    <img src="assets/paper_icon.png" alt="ArXiv Paper" width="50" height="50">
-  </a>
-</p>
-
 <!-- Main images at the top -->
 <p align="center">
   <img src="assets/framework.svg" alt="Framework Diagram" width="600">
