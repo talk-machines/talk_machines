@@ -3,16 +3,10 @@
 <!-- Top links as icons with Cite Us badge -->
 <p align="center">
   <a href="https://talk-machines.github.io/" title="Project Website">
-    <img src="assets/paper_icon.png" alt="Website" width="50" height="50">
-  </a>
-  <a href="https://ieeexplore.ieee.org/document/10817940" title="IEEE Paper">
-    <img src="assets/paper_icon.png" alt="IEEE Paper" width="50" height="50">
+    <img src="assets/website_icon.png" alt="Website" width="50" height="50">
   </a>
   <a href="https://arxiv.org/abs/2412.15462" title="ArXiv Preprint">
     <img src="assets/paper_icon.png" alt="ArXiv Paper" width="50" height="50">
-  </a>
-  <a href="https://github.com/talk-machines" title="GitHub Repository">
-    <img src="assets/github_icon.png" alt="GitHub" width="50" height="50">
   </a>
   <a href="#citation" title="Cite Us">
     <img src="assets/paper_icon.png" alt="Cite Us" width="50" height="50">
@@ -60,7 +54,7 @@ This module processes visual and sensor data to understand the environment and i
 ## Visual Demos
 
 <p align="center">
-  <img src="assets/obst_avoid.gif" alt="Obstacle Avoidance GIF" width="412">
+  <img src="assets/obst_avoid.gif" alt="Obstacle Avoidance GIF" width="411">
   <img src="assets/sort.gif" alt="Sorting Task GIF" width="400">
 </p>
 
@@ -79,7 +73,8 @@ This module processes visual and sensor data to understand the environment and i
 ## Resources
 - **Website**: [TalkMachines](https://talk-machines.github.io/)  
 - **IEEE Paper**: [IEEE Xplore](https://ieeexplore.ieee.org/document/10817940)  
-- **ArXiv Preprint**: [arXiv:2412.15462](https://arxiv.org/abs/2412.15462)  
+- **ArXiv Preprint**: [arXiv:2412.15462](https://arxiv.org/abs/2412.15462)
+- **Supplementary Materials**: `assets/appendix.pdf`  
 ---
 
 ## Further Details
