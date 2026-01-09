@@ -1,13 +1,3 @@
-Perfect! Since your images are in the `assets/` folder, all image paths need to be updated accordingly. I’ve created a **full integrated GitHub README** with:
-
-* Top icons linking to website, IEEE paper, ArXiv, GitHub, and “Cite Us”
-* Main images and GIFs referencing `assets/`
-* Citation section
-* All other sections (structure, features, demos, resources)
-
-Here’s the full version:
-
-```markdown
 # TalkMachines
 
 <!-- Top links as icons with Cite Us badge -->
