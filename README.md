@@ -1,5 +1,7 @@
 <p align="center">
-  <h1>TalkMachines</h1>
+  <a href="https://talk-machines.github.io/" target="_blank">
+    <h1>TalkMachines</h1>
+  </a>
 </p>
 
 <!-- Top links as icons with Cite Us badge -->
