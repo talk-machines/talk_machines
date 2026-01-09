@@ -1,30 +1,40 @@
+Perfect! Since your images are in the `assets/` folder, all image paths need to be updated accordingly. I’ve created a **full integrated GitHub README** with:
+
+* Top icons linking to website, IEEE paper, ArXiv, GitHub, and “Cite Us”
+* Main images and GIFs referencing `assets/`
+* Citation section
+* All other sections (structure, features, demos, resources)
+
+Here’s the full version:
+
+```markdown
 # TalkMachines
 
-<!-- Top links as icons -->
+<!-- Top links as icons with Cite Us badge -->
 <p align="center">
-  <a href="https://talk-machines.github.io/">
-    <img src="paper_icon.png" alt="Website" width="50" height="50">
+  <a href="https://talk-machines.github.io/" title="Project Website">
+    <img src="assets/paper_icon.png" alt="Website" width="50" height="50">
   </a>
-  <a href="https://ieeexplore.ieee.org/document/10817940">
-    <img src="paper_icon.png" alt="IEEE Paper" width="50" height="50">
+  <a href="https://ieeexplore.ieee.org/document/10817940" title="IEEE Paper">
+    <img src="assets/paper_icon.png" alt="IEEE Paper" width="50" height="50">
   </a>
-  <a href="https://arxiv.org/abs/2412.15462">
-    <img src="paper_icon.png" alt="ArXiv Paper" width="50" height="50">
+  <a href="https://arxiv.org/abs/2412.15462" title="ArXiv Preprint">
+    <img src="assets/paper_icon.png" alt="ArXiv Paper" width="50" height="50">
   </a>
-  <a href="https://github.com/talk-machines">
-    <img src="github_icon.png" alt="GitHub" width="50" height="50">
+  <a href="https://github.com/talk-machines" title="GitHub Repository">
+    <img src="assets/github_icon.png" alt="GitHub" width="50" height="50">
   </a>
-  <a href="#citation">
-    <img src="paper_icon.png" alt="Cite Us" width="50" height="50">
+  <a href="#citation" title="Cite Us">
+    <img src="assets/paper_icon.png" alt="Cite Us" width="50" height="50">
   </a>
 </p>
 
 <!-- Main images at the top -->
 <p align="center">
-  <img src="framework.svg" alt="Framework Diagram" width="600">
+  <img src="assets/framework.svg" alt="Framework Diagram" width="600">
 </p>
 <p align="center">
-  <img src="doe.SVG" alt="Design Illustration" width="400">
+  <img src="assets/doe.SVG" alt="Design Illustration" width="400">
 </p>
 
 TalkMachines is a modular robotics framework combining advanced control and perception capabilities with verbal interaction, enabling robots to understand and execute complex commands in dynamic environments.
@@ -60,16 +70,16 @@ This module processes visual and sensor data to understand the environment and i
 ## Visual Demos
 
 <p align="center">
-  <img src="obst_avoid.gif" alt="Obstacle Avoidance GIF" width="400">
-  <img src="sort.gif" alt="Sorting Task GIF" width="400">
+  <img src="assets/obst_avoid.gif" alt="Obstacle Avoidance GIF" width="400">
+  <img src="assets/sort.gif" alt="Sorting Task GIF" width="400">
 </p>
 
 <p align="center">
-  <img src="stack.gif" alt="Stacking Task GIF" width="400">
+  <img src="assets/stack.gif" alt="Stacking Task GIF" width="400">
 </p>
 
 <p align="center">
-  <video src="obstacle_avoidance.mp4" controls width="600">
+  <video src="assets/obstacle_avoidance.mp4" controls width="600">
     Your browser does not support the video tag.
   </video>
 </p>
@@ -80,8 +90,8 @@ This module processes visual and sensor data to understand the environment and i
 - **Website**: [TalkMachines](https://talk-machines.github.io/)  
 - **IEEE Paper**: [IEEE Xplore](https://ieeexplore.ieee.org/document/10817940)  
 - **ArXiv Preprint**: [arXiv:2412.15462](https://arxiv.org/abs/2412.15462)  
-- **Full Paper PDF**: `paper.pdf`  
-- **Supplementary Materials**: `appendix.pdf`  
+- **Full Paper PDF**: `assets/paper.pdf`  
+- **Supplementary Materials**: `assets/appendix.pdf`  
 
 ---
 
@@ -100,3 +110,21 @@ If you use TalkMachines in your work, please cite:
 
 **APA:**
 
+```
+
+Abbas, A. N., & Beleznai, C. (2024, December). Talkwithmachines: Enhancing human-robot interaction through large/vision language models. In 2024 Eighth IEEE International Conference on Robotic Computing (IRC) (pp. 253-258). IEEE.
+
+````
+
+**BibTeX:**
+
+```bibtex
+@inproceedings{abbas2024talkwithmachines,
+  title={Talkwithmachines: Enhancing human-robot interaction through large/vision language models},
+  author={Abbas, A. N. and Beleznai, C.},
+  booktitle={2024 Eighth IEEE International Conference on Robotic Computing (IRC)},
+  pages={253--258},
+  year={2024},
+  organization={IEEE}
+}
+````
